@@ -22,6 +22,7 @@
   },
   "scripts": {
     "start": "nodemon --exec babel-node server.js"
+    //"start" : "node server.js"
   },
   "keywords": [],
   "author": "",
